@@ -24,6 +24,6 @@ https://github.com/stelescuraul/rabbitmqGROUP
 
 | Nr. | RabbitMQ      | Web services  |
 | ----|:-------------:| -------------:|
-| 1.  | [Loan Request](#loan-request) 		       | $1600 		  |
-| 2.  | [Credit Bureau](#credit-bureau)     	   |   $12 		  |
-| 3.  | [Get Credit Score](#get-credit-score)      |    $1 		  |
+| 1.  | [Loan Request](#loan-request) 		       |    		  |
+| 2.  | [Credit Bureau](#credit-bureau)     	   |    		  |
+| 3.  | [Get Credit Score](#get-credit-score)    |     		  |
